@@ -1,0 +1,19 @@
+{
+  "name": "Knox Chinese Medicine",
+  "short_name": "Knox Chinese Medicine",
+  "description": "Chinese medicine clinic in Wantirna South, Melbourne.",
+  "lang": "en-AU",
+  "start_url": "/en/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f6f2ea",
+  "theme_color": "#1f5a4a",
+  "icons": [
+    {
+      "src": "/assets/favicon/favicon-180x180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
