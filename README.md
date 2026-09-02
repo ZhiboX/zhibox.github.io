@@ -29,3 +29,10 @@ This package is a clean independent rebuild based on the supplied wget archive. 
 - Kept testimonials only on the dedicated Reviews pages.
 - Kept the Blog removed and retained legacy redirect/410 handling.
 - Updated the new page metadata, hreflang, JSON-LD and sitemap entries.
+
+## Homepage revision
+- Restored the useful FAQ and research/information portion of the former All About Chinese Medicine homepage section.
+- Did not restore the old News or Recent Blogs material because the client requested that Blog content be removed.
+- Rewrote unverified treatment/research claims as neutral health information.
+- Shortened the four homepage service images to a 16:9 crop and added practical service points.
+- Retained Beauty Services / 美容服务 as the descriptive navigation label.

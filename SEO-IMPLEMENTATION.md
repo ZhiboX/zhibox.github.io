@@ -29,6 +29,10 @@ Production hostname: `https://knoxchinesemedicine.com.au`
 - Kept testimonial text exclusively on the dedicated English and Chinese Reviews pages.
 - Kept the Blog removed and retained its legacy redirect/410 rules.
 - Retained factual service information while avoiding absolute or unverified treatment-result claims.
+- Restored the useful FAQ and research/information portion of the former homepage, while excluding its News and Recent Blogs material as requested.
+- Replaced unverified legacy efficacy and clinic-research claims with neutral, production-safe health information.
+- Corrected the service-card image sizing bug, applied a compact 16:9 homepage crop and added practical summaries to all four cards.
+- Retained the descriptive Beauty Services / 美容服务 navigation label; the page titles and headings remain service-specific.
 
 ## Validation completed
 
@@ -41,7 +45,7 @@ Production hostname: `https://knoxchinesemedicine.com.au`
 - Reviews appear only on `/en/reviews/` and `/zh/reviews/` (18 cards per page).
 - Supplied logo and cosmetic-acupuncture image match the original attachment checksums.
 - No obsolete AHPRA number, GitHub preview hostname or Syrahost URL remains in production content.
-- Desktop English beauty page, desktop English home page, 390 px Chinese beauty page and mobile navigation checked visually.
+- Desktop English beauty page and revised homepage, 390 px Chinese beauty page and revised homepage, and mobile navigation checked visually.
 - No horizontal overflow or browser console warnings/errors in the checked pages.
 
 ## Production-only actions after launch
