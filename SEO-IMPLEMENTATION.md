@@ -1,11 +1,12 @@
 # SEO implementation and launch checklist
 
-Audit date: 2 September 2026  
+Audit date: 9 September 2026  
 Production hostname: `https://knoxchinesemedicine.com.au`
 
 ## Current implementation
 
-- Unique titles and meta descriptions across all 26 indexable English and Simplified Chinese pages.
+- Unique titles and meta descriptions across all 26 indexable English and Simplified Chinese pages. English metadata is aligned with the legacy site's search topics and wording where accurate and compliant.
+- Page-specific `meta keywords` have been added in English legacy style at the client's request. Google does not use this tag for ranking; it is retained for parity and other consumers without keyword stuffing.
 - Self-referencing HTTPS/non-www canonical URLs.
 - Reciprocal `en-AU`, `zh-Hans` and `x-default` hreflang tags on every indexable bilingual page.
 - Open Graph and Twitter metadata with page-appropriate images and accessible image text.
@@ -14,7 +15,7 @@ Production hostname: `https://knoxchinesemedicine.com.au`
 - No `Review`, `aggregateRating` or rating schema.
 - One semantic H1 per indexable page, meaningful image alt text and intrinsic image dimensions.
 - Root and 404 pages correctly excluded from indexing; the form endpoint is excluded from crawling/indexing.
-- Bilingual sitemap with 26 production URLs and `2026-09-02` last-modified dates.
+- Bilingual sitemap with 26 production URLs and `2026-09-09` last-modified dates, `changefreq`, `priority`, the requested namespace declarations and reciprocal hreflang.
 - Legacy URL redirects, HTTPS/non-www canonicalisation and HTTP 410 handling for removed Blog URLs.
 - Compression, caching and production-safe security headers in `.htaccess`.
 
@@ -34,6 +35,17 @@ Production hostname: `https://knoxchinesemedicine.com.au`
 - Corrected the service-card image sizing bug, applied a compact 16:9 homepage crop and added practical summaries to all four cards.
 - Retained the descriptive Beauty Services / 美容服务 navigation label; the page titles and headings remain service-specific.
 
+## 9 September SEO, logo and sitemap update
+
+- Restored the English homepage title and description to the live legacy values: `Traditional Chinese Medicine near Melbourne VIC | Knox Chinese` and its matching service summary.
+- Aligned the remaining English titles/descriptions with the legacy site's page topics while correcting spelling errors and avoiding unsupported treatment-result claims.
+- Added natural Chinese equivalents and unique page-specific meta keywords to all 26 indexable pages.
+- Preserved the legacy Google Search Console verification meta token on the English homepage.
+- Converted the supplied logo to a true-alpha PNG without redrawing the mark; the original 895 × 1200 dimensions and enclosed cream areas are retained.
+- Removed the footer logo's rectangular background and changed the footer to a coordinated light sage palette so the transparent green/gold mark remains legible.
+- Reformatted `sitemap.xml` using the requested sitemap/news/xhtml/image/video namespace declarations, plus weekly `changefreq`, weighted `priority` and bilingual hreflang links.
+- Restored and extended Apache 301 mappings for legacy core/service URLs. Removed Blog/listing URLs remain excluded from the sitemap and return either a relevant redirect or HTTP 410.
+
 ## Validation completed
 
 - 28 HTML files parsed successfully; 26 are indexable bilingual content pages.
@@ -43,7 +55,7 @@ Production hostname: `https://knoxchinesemedicine.com.au`
 - 26 valid JSON-LD blocks; no review or aggregate-rating schema.
 - Sitemap URLs exactly match the 26 canonical indexable URLs.
 - Reviews appear only on `/en/reviews/` and `/zh/reviews/` (18 cards per page).
-- Supplied logo and cosmetic-acupuncture image match the original attachment checksums.
+- Cosmetic-acupuncture image matches the supplied attachment; the supplied logo artwork is preserved with the exterior paper background converted to real alpha transparency.
 - No obsolete AHPRA number, GitHub preview hostname or Syrahost URL remains in production content.
 - Desktop English beauty page and revised homepage, 390 px Chinese beauty page and revised homepage, and mobile navigation checked visually.
 - No horizontal overflow or browser console warnings/errors in the checked pages.

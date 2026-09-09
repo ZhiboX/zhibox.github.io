@@ -1,171 +1,237 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
     <loc>https://knoxchinesemedicine.com.au/en/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en-AU" href="https://knoxchinesemedicine.com.au/en/" />
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://knoxchinesemedicine.com.au/zh/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://knoxchinesemedicine.com.au/en/" />
   </url>
   <url>
     <loc>https://knoxchinesemedicine.com.au/en/services/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en-AU" href="https://knoxchinesemedicine.com.au/en/services/" />
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://knoxchinesemedicine.com.au/zh/services/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://knoxchinesemedicine.com.au/en/services/" />
   </url>
   <url>
     <loc>https://knoxchinesemedicine.com.au/en/services/acupuncture/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-AU" href="https://knoxchinesemedicine.com.au/en/services/acupuncture/" />
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://knoxchinesemedicine.com.au/zh/services/acupuncture/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://knoxchinesemedicine.com.au/en/services/acupuncture/" />
   </url>
   <url>
     <loc>https://knoxchinesemedicine.com.au/en/services/chinese-herbal-medicine/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-AU" href="https://knoxchinesemedicine.com.au/en/services/chinese-herbal-medicine/" />
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://knoxchinesemedicine.com.au/zh/services/chinese-herbal-medicine/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://knoxchinesemedicine.com.au/en/services/chinese-herbal-medicine/" />
   </url>
   <url>
     <loc>https://knoxchinesemedicine.com.au/en/services/myotherapy/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-AU" href="https://knoxchinesemedicine.com.au/en/services/myotherapy/" />
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://knoxchinesemedicine.com.au/zh/services/myotherapy/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://knoxchinesemedicine.com.au/en/services/myotherapy/" />
   </url>
   <url>
     <loc>https://knoxchinesemedicine.com.au/en/services/cupping/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-AU" href="https://knoxchinesemedicine.com.au/en/services/cupping/" />
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://knoxchinesemedicine.com.au/zh/services/cupping/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://knoxchinesemedicine.com.au/en/services/cupping/" />
   </url>
   <url>
+    <loc>https://knoxchinesemedicine.com.au/en/new-service/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://knoxchinesemedicine.com.au/en/new-service/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://knoxchinesemedicine.com.au/zh/new-service/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://knoxchinesemedicine.com.au/en/new-service/" />
+  </url>
+  <url>
     <loc>https://knoxchinesemedicine.com.au/en/about/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en-AU" href="https://knoxchinesemedicine.com.au/en/about/" />
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://knoxchinesemedicine.com.au/zh/about/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://knoxchinesemedicine.com.au/en/about/" />
   </url>
   <url>
     <loc>https://knoxchinesemedicine.com.au/en/faq/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en-AU" href="https://knoxchinesemedicine.com.au/en/faq/" />
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://knoxchinesemedicine.com.au/zh/faq/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://knoxchinesemedicine.com.au/en/faq/" />
   </url>
   <url>
     <loc>https://knoxchinesemedicine.com.au/en/gallery/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en-AU" href="https://knoxchinesemedicine.com.au/en/gallery/" />
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://knoxchinesemedicine.com.au/zh/gallery/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://knoxchinesemedicine.com.au/en/gallery/" />
   </url>
   <url>
     <loc>https://knoxchinesemedicine.com.au/en/reviews/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en-AU" href="https://knoxchinesemedicine.com.au/en/reviews/" />
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://knoxchinesemedicine.com.au/zh/reviews/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://knoxchinesemedicine.com.au/en/reviews/" />
   </url>
   <url>
     <loc>https://knoxchinesemedicine.com.au/en/contact/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-AU" href="https://knoxchinesemedicine.com.au/en/contact/" />
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://knoxchinesemedicine.com.au/zh/contact/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://knoxchinesemedicine.com.au/en/contact/" />
   </url>
   <url>
     <loc>https://knoxchinesemedicine.com.au/en/privacy/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
     <xhtml:link rel="alternate" hreflang="en-AU" href="https://knoxchinesemedicine.com.au/en/privacy/" />
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://knoxchinesemedicine.com.au/zh/privacy/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://knoxchinesemedicine.com.au/en/privacy/" />
   </url>
   <url>
     <loc>https://knoxchinesemedicine.com.au/zh/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en-AU" href="https://knoxchinesemedicine.com.au/en/" />
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://knoxchinesemedicine.com.au/zh/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://knoxchinesemedicine.com.au/en/" />
   </url>
   <url>
     <loc>https://knoxchinesemedicine.com.au/zh/services/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en-AU" href="https://knoxchinesemedicine.com.au/en/services/" />
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://knoxchinesemedicine.com.au/zh/services/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://knoxchinesemedicine.com.au/en/services/" />
   </url>
   <url>
     <loc>https://knoxchinesemedicine.com.au/zh/services/acupuncture/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-AU" href="https://knoxchinesemedicine.com.au/en/services/acupuncture/" />
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://knoxchinesemedicine.com.au/zh/services/acupuncture/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://knoxchinesemedicine.com.au/en/services/acupuncture/" />
   </url>
   <url>
     <loc>https://knoxchinesemedicine.com.au/zh/services/chinese-herbal-medicine/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-AU" href="https://knoxchinesemedicine.com.au/en/services/chinese-herbal-medicine/" />
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://knoxchinesemedicine.com.au/zh/services/chinese-herbal-medicine/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://knoxchinesemedicine.com.au/en/services/chinese-herbal-medicine/" />
   </url>
   <url>
     <loc>https://knoxchinesemedicine.com.au/zh/services/myotherapy/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-AU" href="https://knoxchinesemedicine.com.au/en/services/myotherapy/" />
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://knoxchinesemedicine.com.au/zh/services/myotherapy/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://knoxchinesemedicine.com.au/en/services/myotherapy/" />
   </url>
   <url>
     <loc>https://knoxchinesemedicine.com.au/zh/services/cupping/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-AU" href="https://knoxchinesemedicine.com.au/en/services/cupping/" />
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://knoxchinesemedicine.com.au/zh/services/cupping/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://knoxchinesemedicine.com.au/en/services/cupping/" />
   </url>
   <url>
+    <loc>https://knoxchinesemedicine.com.au/zh/new-service/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-AU" href="https://knoxchinesemedicine.com.au/en/new-service/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://knoxchinesemedicine.com.au/zh/new-service/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://knoxchinesemedicine.com.au/en/new-service/" />
+  </url>
+  <url>
     <loc>https://knoxchinesemedicine.com.au/zh/about/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en-AU" href="https://knoxchinesemedicine.com.au/en/about/" />
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://knoxchinesemedicine.com.au/zh/about/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://knoxchinesemedicine.com.au/en/about/" />
   </url>
   <url>
     <loc>https://knoxchinesemedicine.com.au/zh/faq/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en-AU" href="https://knoxchinesemedicine.com.au/en/faq/" />
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://knoxchinesemedicine.com.au/zh/faq/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://knoxchinesemedicine.com.au/en/faq/" />
   </url>
   <url>
     <loc>https://knoxchinesemedicine.com.au/zh/gallery/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en-AU" href="https://knoxchinesemedicine.com.au/en/gallery/" />
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://knoxchinesemedicine.com.au/zh/gallery/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://knoxchinesemedicine.com.au/en/gallery/" />
   </url>
   <url>
     <loc>https://knoxchinesemedicine.com.au/zh/reviews/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en-AU" href="https://knoxchinesemedicine.com.au/en/reviews/" />
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://knoxchinesemedicine.com.au/zh/reviews/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://knoxchinesemedicine.com.au/en/reviews/" />
   </url>
   <url>
     <loc>https://knoxchinesemedicine.com.au/zh/contact/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-AU" href="https://knoxchinesemedicine.com.au/en/contact/" />
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://knoxchinesemedicine.com.au/zh/contact/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://knoxchinesemedicine.com.au/en/contact/" />
   </url>
   <url>
     <loc>https://knoxchinesemedicine.com.au/zh/privacy/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
     <xhtml:link rel="alternate" hreflang="en-AU" href="https://knoxchinesemedicine.com.au/en/privacy/" />
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://knoxchinesemedicine.com.au/zh/privacy/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://knoxchinesemedicine.com.au/en/privacy/" />
   </url>
-<url><loc>https://knoxchinesemedicine.com.au/en/new-service/</loc><lastmod>2026-09-02</lastmod><xhtml:link rel="alternate" hreflang="en-AU" href="https://knoxchinesemedicine.com.au/en/new-service/" /><xhtml:link rel="alternate" hreflang="zh-Hans" href="https://knoxchinesemedicine.com.au/zh/new-service/" /><xhtml:link rel="alternate" hreflang="x-default" href="https://knoxchinesemedicine.com.au/en/new-service/" /></url><url><loc>https://knoxchinesemedicine.com.au/zh/new-service/</loc><lastmod>2026-09-02</lastmod><xhtml:link rel="alternate" hreflang="en-AU" href="https://knoxchinesemedicine.com.au/en/new-service/" /><xhtml:link rel="alternate" hreflang="zh-Hans" href="https://knoxchinesemedicine.com.au/zh/new-service/" /><xhtml:link rel="alternate" hreflang="x-default" href="https://knoxchinesemedicine.com.au/en/new-service/" /></url></urlset>
+</urlset>
