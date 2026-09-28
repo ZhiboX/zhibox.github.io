@@ -11,7 +11,7 @@ Production hostname: `https://knoxchinesemedicine.com.au`
 - Reciprocal `en-AU`, `zh-Hans` and `x-default` hreflang tags on every indexable bilingual page.
 - Open Graph and Twitter metadata with page-appropriate images and accessible image text.
 - JSON-LD for the clinic, website, registered practitioner, breadcrumbs, services, FAQs and other page types as appropriate.
-- Correct AHPRA identifier `CMR0001738861` in visible content and structured data.
+- Correct Ahpra identifier `CMR0001738861` in visible content and structured data.
 - No `Review`, `aggregateRating` or rating schema.
 - One semantic H1 per indexable page, meaningful image alt text and intrinsic image dimensions.
 - Root and 404 pages correctly excluded from indexing; the form endpoint is excluded from crawling/indexing.
@@ -56,7 +56,7 @@ Production hostname: `https://knoxchinesemedicine.com.au`
 - Sitemap URLs exactly match the 26 canonical indexable URLs.
 - Reviews appear only on `/en/reviews/` and `/zh/reviews/` (18 cards per page).
 - Cosmetic-acupuncture image matches the supplied attachment; the supplied logo artwork is preserved with the exterior paper background converted to real alpha transparency.
-- No obsolete AHPRA number, GitHub preview hostname or Syrahost URL remains in production content.
+- No obsolete Ahpra number, GitHub preview hostname or Syrahost URL remains in production content.
 - Desktop English beauty page and revised homepage, 390 px Chinese beauty page and revised homepage, and mobile navigation checked visually.
 - No horizontal overflow or browser console warnings/errors in the checked pages.
 
